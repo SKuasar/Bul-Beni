@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#EF3507</color>
+    <color name="purple_500">#E9502B</color>
+    <color name="purple_700">#EF3507</color>
+    <color name="teal_200">#EF3507</color>
+    <color name="teal_700">#EF3507</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="arkaplan">#E4E0E0</color>
+    <color name="cardview_light_background">#E4E0E0</color>
+    
+    <color name="btnFillColor">#EF3507</color>
+</resources>
